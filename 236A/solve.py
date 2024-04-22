@@ -1,0 +1,1 @@
+print((lambda length: length % 2 == 0 and "CHAT WITH HER!" or "IGNORE HIM!")(len(set(input()))))

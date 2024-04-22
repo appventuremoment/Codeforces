@@ -1,17 +1,8 @@
 # Problems I want to try
 
-what if you like included the number of points in the screenshot
+## TODO: SORT THEM BASED ON POINTS
 
 800 problems first page:
-https://codeforces.com/problemset/problem/158/A
-https://codeforces.com/problemset/problem/50/A
-https://codeforces.com/problemset/problem/263/A
-https://codeforces.com/problemset/problem/112/A
-https://codeforces.com/problemset/problem/339/A
-https://codeforces.com/problemset/problem/281/A
-https://codeforces.com/problemset/problem/236/A
-https://codeforces.com/problemset/problem/791/A
-https://codeforces.com/problemset/problem/266/A
 https://codeforces.com/problemset/problem/546/A
 https://codeforces.com/problemset/problem/977/A
 https://codeforces.com/problemset/problem/110/A

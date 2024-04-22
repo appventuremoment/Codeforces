@@ -1,0 +1,1 @@
+print((lambda str1, str2: str1.lower() > str2.lower() and 1 or str1.lower() < str2.lower() and -1 or 0)(input(), input()))
