@@ -1,6 +1,6 @@
-# Stuff I wanna try
+# Problems I want to try
 
-waiting on 231A and 282A eval
+what if you like included the number of points in the screenshot
 
 800 problems first page:
 https://codeforces.com/problemset/problem/158/A
