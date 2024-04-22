@@ -1,7 +1,5 @@
 # Problems I want to try
 
-## TODO: SORT THEM BASED ON POINTS
-
 800 problems first page:
 https://codeforces.com/problemset/problem/546/A
 https://codeforces.com/problemset/problem/977/A
