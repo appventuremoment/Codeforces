@@ -12,7 +12,6 @@ https://codeforces.com/problemset/problem/281/A
 https://codeforces.com/problemset/problem/236/A
 https://codeforces.com/problemset/problem/791/A
 https://codeforces.com/problemset/problem/266/A
-https://codeforces.com/problemset/problem/617/A
 https://codeforces.com/problemset/problem/546/A
 https://codeforces.com/problemset/problem/977/A
 https://codeforces.com/problemset/problem/110/A
@@ -52,12 +51,10 @@ https://codeforces.com/problemset/problem/723/A
 https://codeforces.com/problemset/problem/732/A
 https://codeforces.com/problemset/problem/581/A
 https://codeforces.com/problemset/problem/1154/A
-https://codeforces.com/problemset/problem/151/A
 https://codeforces.com/problemset/problem/1742/A
 https://codeforces.com/problemset/problem/1399/A
 https://codeforces.com/problemset/problem/1409/A
 https://codeforces.com/problemset/problem/1703/A
-https://codeforces.com/problemset/problem/630/A
 https://codeforces.com/problemset/problem/381/A
 https://codeforces.com/problemset/problem/1512/A
 https://codeforces.com/problemset/problem/1692/A
@@ -66,7 +63,6 @@ https://codeforces.com/problemset/problem/1676/A
 https://codeforces.com/problemset/problem/758/A
 https://codeforces.com/problemset/problem/472/A
 https://codeforces.com/problemset/problem/1669/A
-https://codeforces.com/problemset/problem/432/A
 https://codeforces.com/problemset/problem/1560/A
 https://codeforces.com/problemset/problem/490/A
 https://codeforces.com/problemset/problem/1807/A
