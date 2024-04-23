@@ -1,0 +1,1 @@
+print((lambda number, coins: 1 + [sum(sorted(coins)[::-1][:x + 1]) > sum(sorted(coins)[::-1][x + 1:]) for x in range(number)].index(True))(int(input()), list(map(int, input().split(' ')))))

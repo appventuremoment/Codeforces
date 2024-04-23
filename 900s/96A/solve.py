@@ -1,0 +1,1 @@
+print((lambda string: True in [x.count('1') >= 7 for x in string.split('0')] and 'YES' or True in [x.count('0') >= 7 for x in string.split('1')] and 'YES' or 'NO')(input()))

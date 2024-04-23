@@ -19,8 +19,8 @@ def CompareXORList(A, B):
                  return
 
 
-from itertools import *
-for i in range(int(input())):
+from    itertools import *
+for _ in range(int(input())):
     n, k = list(map(int, input().split(' ')))
     lst = list(map(int, input().split(' ')))
     lista = list(map(list, combinations(lst[:n], 2 * k)))
