@@ -1,0 +1,1 @@
+print((lambda unneeded, array: bool(array.count(1)) and "HARD" or "EASY")(input(), list(map(int, input().split(' ')))))

@@ -1,12 +1,7 @@
 # Problems I want to try
 
 900s
-https://codeforces.com/problemset/problem/1921/C
 https://codeforces.com/problemset/problem/1941/C
-https://codeforces.com/problemset/problem/1927/B
-
-1000s
-https://codeforces.com/problemset/problem/1955/B
 
 1100s
 https://codeforces.com/problemset/problem/1946/B
@@ -17,13 +12,6 @@ https://codeforces.com/problemset/problem/1950/D
 What if I completed all of 800s (currently there are 676 of them)
 
 800 problems first page:
-https://codeforces.com/problemset/problem/1030/A
-https://codeforces.com/problemset/problem/467/A
-https://codeforces.com/problemset/problem/344/A
-https://codeforces.com/problemset/problem/486/A
-https://codeforces.com/problemset/problem/136/A
-https://codeforces.com/problemset/problem/200/B
-https://codeforces.com/problemset/problem/1370/A
 https://codeforces.com/problemset/problem/1551/A
 https://codeforces.com/problemset/problem/228/A
 https://codeforces.com/problemset/problem/705/A

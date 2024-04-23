@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda messages, charge, pertime, perflip, time: charge > sum([min(perflip, (([0] + time)[ind + 1] - ([0] + time)[ind]) * pertime) for ind in range(messages)]) and 'YES' or 'NO')(*map(int, input().split(' ')), list(map(int, input().split(' ')))))

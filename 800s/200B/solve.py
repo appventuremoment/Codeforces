@@ -1,0 +1,1 @@
+print((lambda numbers, percent: sum(percent) / numbers)(int(input()), list(map(int, input().split(' ')))))

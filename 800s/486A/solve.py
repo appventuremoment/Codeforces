@@ -1,0 +1,1 @@
+print((lambda number: pow(-1, number) * (number // 2 + number % 2))(int(input())))
