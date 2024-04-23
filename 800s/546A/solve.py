@@ -1,0 +1,1 @@
+print((lambda each, dollars, number: max(0, each * sum([x for x in range(1, number + 1)]) - dollars))(*map(int, input().split(' '))))

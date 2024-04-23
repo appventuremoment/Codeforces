@@ -1,0 +1,1 @@
+print((lambda string: set(str(string.count('4') + string.count('7'))).issubset({'4', '7'}) and "YES" or "NO")(input()))

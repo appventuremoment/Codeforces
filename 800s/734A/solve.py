@@ -1,0 +1,1 @@
+print((lambda n, won: won.count('A') > n // 2 and "Anton" or won.count('D') > n // 2 and "Danik" or 'Friendship')(int(input()), input()))

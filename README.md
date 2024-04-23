@@ -1,15 +1,6 @@
 # Problems I want to try
 
 800 problems first page:
-https://codeforces.com/problemset/problem/546/A
-https://codeforces.com/problemset/problem/977/A
-https://codeforces.com/problemset/problem/110/A
-https://codeforces.com/problemset/problem/734/A
-https://codeforces.com/problemset/problem/41/A
-https://codeforces.com/problemset/problem/116/A
-https://codeforces.com/problemset/problem/677/A
-https://codeforces.com/problemset/problem/271/A
-https://codeforces.com/problemset/problem/266/B
 https://codeforces.com/problemset/problem/1030/A
 https://codeforces.com/problemset/problem/467/A
 https://codeforces.com/problemset/problem/344/A

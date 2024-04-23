@@ -1,0 +1,1 @@
+print((lambda x, y: x[::-1] == y and 'YES' or 'NO')(input(), input()))

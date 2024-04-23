@@ -1,6 +1,6 @@
 from math import *
 
-# Cheated by referring to online solution
+# Cheated by referring to equations online
 
 pi = 3.14159265359
 

@@ -1,0 +1,1 @@
+print((lambda _, height, friends: [h > height for h in friends].count(True) * 2 + [h > height for h in friends].count(False))(*map(int, input().split(' ')), list(map(int, input().split(' ')))))
