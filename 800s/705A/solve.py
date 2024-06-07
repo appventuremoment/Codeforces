@@ -1,0 +1,1 @@
+print((lambda inp: "that ".join(["I hate " if _ % 2 == 0 else "I love " for _ in range(inp)]) + "it")(int(input())))

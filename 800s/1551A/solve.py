@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda temp: f"{temp // 3 + (temp % 3 == 1 and 1 or 0)} {temp // 3 + (temp % 3 == 2 and 1 or 0)}")(int(input())))

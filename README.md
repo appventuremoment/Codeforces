@@ -12,10 +12,6 @@ https://codeforces.com/problemset/problem/1950/D
 What if I completed all of 800s (currently there are 676 of them)
 
 800 problems first page:
-https://codeforces.com/problemset/problem/1551/A
-https://codeforces.com/problemset/problem/228/A
-https://codeforces.com/problemset/problem/705/A
-https://codeforces.com/problemset/problem/1328/A
 https://codeforces.com/problemset/problem/469/A
 https://codeforces.com/problemset/problem/520/A
 https://codeforces.com/problemset/problem/144/A

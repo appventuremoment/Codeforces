@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda a, b: (a // b + (1 and a % b != 0 or 0)) * b - a)(*map(int, input().split(' '))))

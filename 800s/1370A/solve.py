@@ -1,0 +1,1 @@
+for i in range(int(input())): print((lambda num: num > 1 and num // 2 + num % 1 or 1)(int(input())))

@@ -1,0 +1,1 @@
+print((lambda inp: 4 - len(list(set(inp.split(' ')))))(input()))
