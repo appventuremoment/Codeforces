@@ -1,0 +1,1 @@
+main = interact $ function.read; function x|even x && x>2="YES"|otherwise="NO"
