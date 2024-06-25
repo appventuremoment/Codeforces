@@ -1,5 +1,12 @@
 # Problems I want to try
 
+For Haskell, 
+To build new project use ```stack new projectname```
+To compile change dir to folder with the source file and run ```stack ghci filename.hs```
+To rebuild it do ```stack clean``` followed by ```stack build```
+To rebuild in ghci do ```:reload```
+To input lines into ghci, type in your input followed by ```CTRL + Z``` and enter
+
 900s
 https://codeforces.com/problemset/problem/1941/C
 
@@ -15,8 +22,6 @@ What if I completed all of 800s (currently there are 676 of them)
 https://codeforces.com/problemset/problem/144/A
 https://codeforces.com/problemset/problem/148/A
 https://codeforces.com/problemset/problem/996/A
-https://codeforces.com/problemset/problem/443/A
-https://codeforces.com/problemset/problem/785/A
 https://codeforces.com/problemset/problem/268/A
 https://codeforces.com/problemset/problem/1335/A
 https://codeforces.com/problemset/problem/141/A
