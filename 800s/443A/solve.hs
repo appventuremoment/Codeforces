@@ -1,0 +1,1 @@
+import Data.Char; import Data.List; main = interact $ show . length . nub . filter isLetter

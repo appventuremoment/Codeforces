@@ -1,0 +1,1 @@
+main = getContents >>= putStrLn . unlines . map (show . truncate. (/2) . (+(-1)) . read) . drop 1 . lines
