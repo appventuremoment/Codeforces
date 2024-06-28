@@ -6,6 +6,7 @@ To compile change dir to folder with the source file and run ```stack ghci filen
 To rebuild it do ```stack clean``` followed by ```stack build```
 To rebuild in ghci do ```:reload```
 To input lines into ghci, type in your input followed by ```CTRL + Z``` and enter
+Using ```:t function``` displays input and output types of the function
 
 900s
 https://codeforces.com/problemset/problem/1941/C
@@ -20,11 +21,7 @@ What if I completed all of 800s (currently there are 676 of them)
 
 800 problems first page:
 https://codeforces.com/problemset/problem/144/A
-https://codeforces.com/problemset/problem/148/A
-https://codeforces.com/problemset/problem/996/A
 https://codeforces.com/problemset/problem/268/A
-https://codeforces.com/problemset/problem/1335/A
-https://codeforces.com/problemset/problem/141/A
 https://codeforces.com/problemset/problem/510/A
 https://codeforces.com/problemset/problem/427/A
 https://codeforces.com/problemset/problem/1352/A

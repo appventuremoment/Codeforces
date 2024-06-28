@@ -6,8 +6,8 @@ test -}
 -- CUSTOM MODULE
 module TestModule (gcdDef, switchFunction) where
 import Data.Char
-import System.IO
 import Data.List
+import System.IO
 test = [0, 5..100] :: [Integer]
 showPrint = show "im so tired"
 printPrint = print "im so tired"
