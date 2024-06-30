@@ -24,7 +24,7 @@ customFunction (a, b, z) _ = print $ a + b
 -- funny math function thingy
 factorial 0 = 1
 factorial n = n * factorial(n - 1)
-permutation n r = factorial n `div` factorial n - r
+permutation n r = factorial n `div` factorial (n - r)
 combination n r = permutation n r `div` factorial r
 
 -- GUARDS GET HIM
@@ -105,3 +105,7 @@ readfromFile = do
     
 fibSeq = [1,1] ++ [a + b | (a, b) <- zip fibSeq (tail fibSeq)]
 fibNumber n = fibSeq !! (n - 1)
+
+summation = [sum [1..n] | n <- [1..]]
+sumN n = summation !! (n - 1)
+-- or sumN n = sum [1..n]

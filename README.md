@@ -1,12 +1,14 @@
 # Problems I want to try
 
-For Haskell, 
+For Haskell,
 To build new project use ```stack new projectname```
 To compile change dir to folder with the source file and run ```stack ghci filename.hs```
 To rebuild it do ```stack clean``` followed by ```stack build```
 To rebuild in ghci do ```:reload```
 To input lines into ghci, type in your input followed by ```CTRL + Z``` and enter
 Using ```:t function``` displays input and output types of the function
+
+###### This just might be the hardest language I ever had to pick up
 
 900s
 https://codeforces.com/problemset/problem/1941/C
@@ -24,12 +26,6 @@ https://codeforces.com/problemset/problem/144/A
 https://codeforces.com/problemset/problem/268/A
 https://codeforces.com/problemset/problem/510/A
 https://codeforces.com/problemset/problem/427/A
-https://codeforces.com/problemset/problem/1352/A
-https://codeforces.com/problemset/problem/750/A
-https://codeforces.com/problemset/problem/155/A
-https://codeforces.com/problemset/problem/723/A
-https://codeforces.com/problemset/problem/732/A
-https://codeforces.com/problemset/problem/581/A
 https://codeforces.com/problemset/problem/1154/A
 https://codeforces.com/problemset/problem/1742/A
 https://codeforces.com/problemset/problem/1399/A
@@ -39,7 +35,6 @@ https://codeforces.com/problemset/problem/381/A
 https://codeforces.com/problemset/problem/1512/A
 https://codeforces.com/problemset/problem/1692/A
 https://codeforces.com/problemset/problem/32/B
-https://codeforces.com/problemset/problem/1676/A
 https://codeforces.com/problemset/problem/758/A
 https://codeforces.com/problemset/problem/472/A
 https://codeforces.com/problemset/problem/1669/A
@@ -51,7 +46,6 @@ https://codeforces.com/problemset/problem/1791/A
 https://codeforces.com/problemset/problem/1343/B
 https://codeforces.com/problemset/problem/703/A
 https://codeforces.com/problemset/problem/1760/A
-https://codeforces.com/problemset/problem/9/A
 https://codeforces.com/problemset/problem/431/A
 https://codeforces.com/problemset/problem/1850/A
 https://codeforces.com/problemset/problem/1374/A
