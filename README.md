@@ -22,15 +22,18 @@ https://codeforces.com/problemset/problem/1950/D
 What if I completed all of 800s (currently there are 676 of them)
 
 800 problems first page:
+
+## RELOOK AT THE CODE IN 80A
+## RELOOK AT THE CODE IN 80A
+## RELOOK AT THE CODE IN 80A
+## RELOOK AT THE CODE IN 80A
+## RELOOK AT THE CODE IN 80A
+
 https://codeforces.com/problemset/problem/144/A
 https://codeforces.com/problemset/problem/268/A
 https://codeforces.com/problemset/problem/510/A
 https://codeforces.com/problemset/problem/427/A
-https://codeforces.com/problemset/problem/1154/A
-https://codeforces.com/problemset/problem/1742/A
 https://codeforces.com/problemset/problem/1399/A
-https://codeforces.com/problemset/problem/1409/A
-https://codeforces.com/problemset/problem/1703/A
 https://codeforces.com/problemset/problem/381/A
 https://codeforces.com/problemset/problem/1512/A
 https://codeforces.com/problemset/problem/1692/A
@@ -52,7 +55,6 @@ https://codeforces.com/problemset/problem/1374/A
 https://codeforces.com/problemset/problem/1367/B
 https://codeforces.com/problemset/problem/1624/A
 https://codeforces.com/problemset/problem/1520/A
-https://codeforces.com/problemset/problem/80/A
 https://codeforces.com/problemset/problem/1433/A
 https://codeforces.com/problemset/problem/1915/A
 https://codeforces.com/problemset/problem/1873/A
