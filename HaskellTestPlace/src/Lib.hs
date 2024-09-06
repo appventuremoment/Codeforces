@@ -23,7 +23,7 @@ customFunction (a, b, z) _ = print $ a + b
 
 -- funny math function thingy
 factorial 0 = 1
-factorial n = n * factorial(n - 1)
+factorial n = n * factorial (n - 1)
 permutation n r = factorial n `div` factorial (n - r)
 combination n r = permutation n r `div` factorial r
 
@@ -67,7 +67,7 @@ isWeekEnd Sunday Saturday = print True
 
 data Customer = Customer {
     name :: String,
-    balance :: Double 
+    balance :: Double
     } deriving (Show, Eq)
 
 getBalance (Customer _ bal) = putStrLn $ "You have " ++ show bal ++ " dollars left. Live cautiously."
@@ -102,10 +102,13 @@ readfromFile = do
     contents <- hGetContents fileName
     putStr contents
     hClose fileName
-    
+
 fibSeq = [1,1] ++ [a + b | (a, b) <- zip fibSeq (tail fibSeq)]
 fibNumber n = fibSeq !! (n - 1)
 
 summation = [sum [1..n] | n <- [1..]]
 sumN n = summation !! (n - 1)
 -- or sumN n = sum [1..n]
+
+mod7 :: Int -> Int
+mod7 = mod 7
