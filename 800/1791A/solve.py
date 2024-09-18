@@ -1,0 +1,1 @@
+for _ in range(int(input())): print(input() in 'codeforces' and 'YES' or 'NO')
