@@ -1,3 +1,4 @@
+-- This does not work
 main = do
     content <-getContents
     let listOfPixels = words . unwords . tail . lines $ content

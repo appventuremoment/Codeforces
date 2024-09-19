@@ -1,0 +1,1 @@
+for _ in range(int(input())): print(sum(sorted(list(map(int, input().split(' '))))[1:]) >= 10 and 'YES' or 'NO')
