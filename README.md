@@ -29,9 +29,8 @@ What if I completed all of 800s (currently there are 676 of them)
 ## RELOOK AT THE CODE IN 80A
 ## RELOOK AT THE CODE IN 80A
 
-https://codeforces.com/problemset/problem/1374/A
-https://codeforces.com/problemset/problem/1367/B
 https://codeforces.com/problemset/problem/1624/A
+https://codeforces.com/problemset/problem/1367/B
 https://codeforces.com/problemset/problem/1520/A
 https://codeforces.com/problemset/problem/1433/A
 https://codeforces.com/problemset/problem/1915/A

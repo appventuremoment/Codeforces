@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda USELESS, ls: max(ls) - min(ls))(input(), list(map(int, input().split()))))
