@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda inp: inp[:int(len(inp) / 2)] == inp[int(len(inp) / 2):] and 'YES' or 'NO')(input()))

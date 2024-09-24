@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda temp: 10 * (int(temp[0]) - 1) + sum([x for x in range(len(temp) + 1)]))(input()))
