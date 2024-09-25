@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda _, stren: min([stren[i + 1] - stren[i] for i in range(len(stren) - 1)]))(input(), sorted(list(map(int, input().split(' '))))))

@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda dimensions: max(max(dimensions), 2 * min(dimensions)) **2)(sorted(list(map(int, input().split(' '))))))

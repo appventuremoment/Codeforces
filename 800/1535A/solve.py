@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda players: max(players[:2]) in sorted(players)[2:] and max(players[2:]) in sorted(players)[2:] and 'YES' or 'NO')(list(map(int, input().split(' ')))))

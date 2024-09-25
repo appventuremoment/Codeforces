@@ -1,0 +1,1 @@
+for _ in range(int(input())): print((lambda h, m: m > 0  and (24 - (h + 1)) * 60 + (60 - m) or (24 - h) * 60)(*map(int, input().split(' '))))
